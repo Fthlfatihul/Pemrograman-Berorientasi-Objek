@@ -1,4 +1,7 @@
-
+/* Muh. Fatihul Ihsan 
+    13020240107
+    A3
+    16 April 2026 21.00*/
 public class KonversiJam {
     private long totalDetik;
     private long detikSekarang;
